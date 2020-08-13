@@ -490,7 +490,7 @@
                        add 1 to ws-pontos
                    end-if
                end-if
-               if ws-quantia-numeros = 9 then
+               if ws-quantia-numeros = 10 then
                    if ws-num-sorteado(ws-ind-sorteio - 1) = ws-num-apostado(ws-ind-aposta - 7)
                    or ws-num-sorteado(ws-ind-sorteio - 1) = ws-num-apostado(ws-ind-aposta - 8)
                    or ws-num-sorteado(ws-ind-sorteio - 1) = ws-num-apostado(ws-ind-aposta - 9)
@@ -526,7 +526,7 @@
                        add 1 to ws-pontos
                    end-if
                end-if
-               if ws-quantia-numeros = 9 then
+               if ws-quantia-numeros = 10 then
                    if ws-num-sorteado(ws-ind-sorteio - 2) = ws-num-apostado(ws-ind-aposta - 7)
                    or ws-num-sorteado(ws-ind-sorteio - 2) = ws-num-apostado(ws-ind-aposta - 8)
                    or ws-num-sorteado(ws-ind-sorteio - 2) = ws-num-apostado(ws-ind-aposta - 9)
@@ -562,7 +562,7 @@
                        add 1 to ws-pontos
                    end-if
                end-if
-               if ws-quantia-numeros = 9 then
+               if ws-quantia-numeros = 10 then
                    if ws-num-sorteado(ws-ind-sorteio - 3) = ws-num-apostado(ws-ind-aposta - 7)
                    or ws-num-sorteado(ws-ind-sorteio - 3) = ws-num-apostado(ws-ind-aposta - 8)
                    or ws-num-sorteado(ws-ind-sorteio - 3) = ws-num-apostado(ws-ind-aposta - 9)
@@ -598,7 +598,7 @@
                        add 1 to ws-pontos
                    end-if
                end-if
-               if ws-quantia-numeros = 9 then
+               if ws-quantia-numeros = 10 then
                    if ws-num-sorteado(ws-ind-sorteio - 4) = ws-num-apostado(ws-ind-aposta - 7)
                    or ws-num-sorteado(ws-ind-sorteio - 4) = ws-num-apostado(ws-ind-aposta - 8)
                    or ws-num-sorteado(ws-ind-sorteio - 4) = ws-num-apostado(ws-ind-aposta - 9)
@@ -634,7 +634,7 @@
                        add 1 to ws-pontos
                    end-if
                end-if
-               if ws-quantia-numeros = 9 then
+               if ws-quantia-numeros = 10 then
                    if ws-num-sorteado(ws-ind-sorteio - 5) = ws-num-apostado(ws-ind-aposta - 7)
                    or ws-num-sorteado(ws-ind-sorteio - 5) = ws-num-apostado(ws-ind-aposta - 8)
                    or ws-num-sorteado(ws-ind-sorteio - 5) = ws-num-apostado(ws-ind-aposta - 9)
@@ -670,7 +670,7 @@
                        add 1 to ws-pontos
                    end-if
                end-if
-               if ws-quantia-numeros = 9 then
+               if ws-quantia-numeros = 10 then
                    if ws-num-sorteado(ws-ind-sorteio - 6) = ws-num-apostado(ws-ind-aposta - 7)
                    or ws-num-sorteado(ws-ind-sorteio - 6) = ws-num-apostado(ws-ind-aposta - 8)
                    or ws-num-sorteado(ws-ind-sorteio - 6) = ws-num-apostado(ws-ind-aposta - 9)
